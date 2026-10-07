@@ -1,0 +1,30 @@
+[
+  {
+    "file": "assets/morai-rviz-driving.png",
+    "source": "/home/paik/morai-artifacts/global-path-demo-running.png",
+    "date_or_snapshot": "2026-09-21",
+    "description": "MORAI·RViz 전역경로 추종 개발 실행 화면",
+    "sha256": "bcb35987b8ca7d69eea828d43a6c91ab70808c4ed2decaa61c84ff748b690f27"
+  },
+  {
+    "file": "assets/hd-map-preview.png",
+    "source": "/home/paik/repo-summary-review/Morai_Sim_team2-source/src/hd_map_pkg/docs/katri_hd_map_preview.png",
+    "date_or_snapshot": "팀 main 스냅샷",
+    "description": "KATRI MGeo 기반 HD Map·RDDF 미리보기; 개발용 속도 표기는 설정값",
+    "sha256": "ad7d32f27967857cd548d88bc33bfc786b8d74a5e0509a4a12787dd5fa88b59a"
+  },
+  {
+    "file": "assets/lidar-leveling-rviz.png",
+    "source": "/home/paik/morai-artifacts/lidar-horizontalization-20260914/rviz.png",
+    "date_or_snapshot": "2026-09-14",
+    "description": "LiDAR 수평화 처리 경로의 기존 RViz 실행 화면; 출력 frame은 lidar_link",
+    "sha256": "dd449b9be7828016a180acc702f841a85d6e07b6fc5bd5ece538b9331f36c536"
+  },
+  {
+    "file": "assets/rddf-curvature-comparison.png",
+    "source": "/home/paik/morai-artifacts/frenet-relaxation-20261006/curvature_comparison.png",
+    "date_or_snapshot": "2026-10-06",
+    "description": "이전 이동 상한 0.30m 설정의 RDDF 오프라인 곡률 비교; 현재 설정 0.15m와 구분",
+    "sha256": "555bab0f10bc7989fe8b7fdf3711cff97964521502975c889544557662d68520"
+  }
+]

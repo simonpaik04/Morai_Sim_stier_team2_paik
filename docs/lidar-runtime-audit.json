@@ -1,0 +1,51 @@
+{
+  "counts_10s": {
+    "status": 21,
+    "ego": 429,
+    "raw": 73,
+    "filtered": 73,
+    "observation": 73
+  },
+  "valid_observations": 73,
+  "objects_min_max": [
+    3,
+    3
+  ],
+  "latency_ms_p50_p95": [
+    133.6662769317627,
+    145.0507640838623
+  ],
+  "output_frames": [
+    "lidar_link"
+  ],
+  "raw_stamp_matches": 72,
+  "status_reasons": [
+    "roll/pitch leveled DBSCAN; scan-time SLERP; lidar_link output; development calibration/freshness unverified"
+  ],
+  "attitude_rpy_deg": [
+    -0.08364594956951815,
+    -0.5339195301663053,
+    152.1105957663126
+  ],
+  "geometry_sample": {
+    "stamp_ns": 1789377541289850235,
+    "source_points": 13738,
+    "filtered_points": 110,
+    "source_roi_points": 125,
+    "leveled_roi_points": 126,
+    "filtered_inside_level_roi": true,
+    "level_z_bounds": [
+      -1.4469799598992048,
+      0.9946782783723151
+    ],
+    "alignment_gap_ms": 41.468143
+  },
+  "last_status": {
+    "ready": false,
+    "stop_required": true,
+    "processed_count": 439,
+    "invalid_count": 0,
+    "dropped_count": 0,
+    "processing_latency_ms": 32.863494
+  }
+}
